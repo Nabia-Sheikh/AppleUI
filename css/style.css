@@ -1,0 +1,344 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.apple-logo:hover {
+	cursor: pointer;
+	color: lightgrey;
+}
+
+.nav li:hover {
+	cursor: pointer;
+}
+
+.nav {
+	background-color: #333333;
+	padding: 1px;
+	padding: 0.1px;
+	margin-top: -8px;
+    position: fixed;
+	margin-left: -9px;
+	width: 100%;
+}
+
+.nav ul {
+	text-align: center;
+}
+.nav a {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 0.822);
+}
+.nav a:hover {
+	color: rgba(255, 255, 255, 0.966);
+}
+.nav li {
+	display: inline;
+
+	padding: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+header > h3 {
+	text-align: center;
+	font-size: smaller;
+	margin-top: 0px;
+	padding: 15px;
+	margin-left: -9px;
+	/* background-color: rgb(0, 113, 227); */
+}
+
+header h3 a {
+	text-decoration: none;
+	color: white;
+}
+
+.after-head {
+	text-align: center;
+	background-color: rgb(245, 245, 247);
+	padding: 15px;
+	margin-top: -12px;
+	margin-left: -6px;
+}
+
+.main-section {
+	text-align: center;
+	background-color: rgb(251, 251, 253);
+}
+
+.main-section h1,
+.advertise h1 {
+	font-size: 54px;
+	font-weight: 600;
+	color: #1D1D1F;
+}
+
+.main-section h3,
+.advertise h3 {
+	margin-top: -28px;
+	font-weight: 500;
+}
+
+.main-section p {
+	color: rgb(148, 148, 148);
+	line-height: 23px;
+	font-weight: 300;
+}
+.anchor {
+	padding-right: 50px;
+	color: #4991DA;
+	text-decoration: none;
+	font-size: large;
+	font-weight: 500;
+}
+.anchor-2 {
+	color:#4991DA;
+	text-decoration: none;
+	font-size: large;
+	font-weight: 500;
+}
+.main-section > img {
+	margin-top: 25px;
+}
+
+.advertise {
+	background-color: black;
+	color: white;
+	text-align: center;
+	align-items: center;
+	margin-left: -8px;
+	margin-top: -38px;
+}
+
+.advertise p {
+	color: rgb(148, 148, 148);
+	line-height: 23px;
+	font-weight: 300;
+}
+.for-p {
+	padding-top: 60px;
+	color: #ffffff;
+}
+
+.img-2 {
+	margin-left: 330px;
+}
+
+.card {
+	text-align: center;
+	margin-top: 70px;
+}
+.card > p {
+	font-size: 170%;
+	color: #1D1D1F;
+}
+p.term {
+	font-size: 80%;
+	color: #939395;
+}
+
+
+
+.sec-1 {
+	display: inline-block;
+	background-color: black;
+	width: 100%;
+}
+
+.ipad {
+	display: inline-block;
+	background-color: rgb(251, 251, 253);
+	align-items: center;
+	text-align: center;
+	margin-top: 0px;
+	width: 50%;
+}
+
+.ipad h1 {
+	padding-top: 50px;
+	font-size: 42px;
+	font-weight: 600;
+	margin-right: 8%;
+}
+
+.ipad h3 {
+	margin-top: -20px;
+	font-weight: 500;
+	font-size: larger;
+	margin-right: 8%;
+}
+
+.ipad img {
+	margin-top: 50px;
+	height: 300px;
+	width: 600px;
+	margin-right: -5%;
+}
+
+.anchorr {
+	color: rgb(102, 163, 224);
+	font-size: large;
+	text-decoration: none;
+	margin-right: 8%;
+}
+.sec-1b {
+	display: inline-block;
+	margin-left: 200px;
+	align-items: center;
+
+}
+.sec-1b h1{
+	color:#ffffff;
+}
+.sec-1b h4{
+	color:red;
+	
+}
+.sec-1b p{
+	color: #ffffff;
+}
+
+.sec-2 {
+	display: inline-block;
+	width: 100%;
+}
+.sec-2a {
+	display: inline-block;
+	width: 50%;
+	position: relative;
+}
+
+
+.sec-2a img {
+	width: 650px;
+}
+
+.sec-2a h1 {
+	position: absolute;
+	color: #ffffff;
+	right: 270px;
+	top: 20px;
+
+}
+.sec-2a p {
+	position: absolute;
+	color: #ffffff;
+	right: 290px;
+	top: 80px;
+	font-size: large;
+
+}
+.s-anc {
+	position: absolute;
+	color: royalblue;
+	right: 360px;
+	top: 130px;
+	text-decoration: none;
+}
+
+.s-ancc {
+	position: absolute;
+	color: royalblue;
+	right: 280px;
+	top: 130px;
+	text-decoration: none;
+}
+.sec-2b {
+	display: inline-block;
+	width: 49%;
+	margin-left: 8px;
+}
+.sec-2b img {
+	
+	margin-left: 45px;
+}
+
+.sec-3 {
+	display: inline-block;
+	width: 100%;
+}
+.sec-3a {
+	display: inline-block;
+	width: 49%;
+}
+.sec-3a img {
+	margin-left:80px ;
+}
+.sec-3b {
+	display: inline-block;
+	width: 50%;
+}
+.sec-3b img {
+	margin-left:90px ;
+}
+
+
+
+footer {
+	background-color: rgb(245, 245, 247);
+	margin-top: -15px;
+}
+
+.footer {
+	align-items: center;
+	text-align: justify;
+	width: 1200px;
+}
+
+.footer p {
+	text-align: justify;
+	margin-left: 155px;
+	padding-top: 30px;
+	font-size: smaller;
+	color: silver;
+}
+
+hr {
+	width: 1005px;
+	margin-left: 161px;
+}
+
+.lfooter {
+	width: 1200px;
+	margin-left: 120px;
+	font-size: smaller;
+	margin-top: -45px;
+}
+.lfooter ul {
+	display: inline-block;
+	vertical-align: top;
+}
+
+strong {
+	color: rgb(69, 69, 71);
+}
+
+.lfooter li {
+	list-style-type: none;
+	color: rgb(171, 171, 175);
+	padding: 10px;
+}
+.lfooter p {
+	margin-left: 58px;
+	font-size: small;
+	color: rgb(171, 171, 175);
+}
+.lfooter a {
+	color: rgb(102, 163, 224);
+	text-decoration: none;
+}
+
+.lfooter hr {
+	width: 1000px;
+	margin-left: 50px;
+	color: rgb(102, 163, 224);
+}
+.lp {
+	margin-top: -27px;
+	padding-bottom: 20px;
+}
+
+footer li:hover {
+	cursor: pointer;
+	text-decoration: underline;
+	color: rgb(149, 149, 151);
+}
